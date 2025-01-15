@@ -48,9 +48,9 @@ The different classes are -
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy library - version 1.26.4
+- tensorflow library - version 2.17.1
+- keras library - version 3.5.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
