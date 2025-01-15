@@ -38,31 +38,22 @@ The different classes are -
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Model 1 - Baseline model:
-  -    
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- The final model is with augmented images , handling class imabalance and reducing overfitting.
+- Accuracy of model is 90%    
 
 ## Technologies Used
 - Numpy library - version 1.26.4
 - tensorflow library - version 2.17.1
 - keras library - version 3.5.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was a part of course work on ML
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @PraseethaSingh - feel free to contact me! praseetha.singh@gmail.com
 
 
 <!-- Optional -->
